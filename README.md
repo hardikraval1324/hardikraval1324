@@ -3,8 +3,8 @@
 
 ## I'm a student, Developer, and a Singer!!
 
-- 🔭 I am currently working on front-end development!
-- 🌱 I’m currently learning competitive Coding and competitive Gaming  !
+- 🔭 I am currently working on  JavaScript and MERN stack development!
+- 🌱 I’m currently learning full-stack devlopment  !
 - 🥅 2021 Goals: Learn as many new things as i can and to Contribute more to Open Source projects
 - ⚡ Fun fact: I love singing  and playing guitar 
 
