@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Hardik Raval  👋
 
-## I'm a student, Developer, and a Singer!!
+## student | Developer | Singer 
 
 - 🔭 I am currently working on  JavaScript and MERN stack development!
 - 🌱 I’m currently learning full-stack devlopment  !
