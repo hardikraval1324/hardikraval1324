@@ -1,5 +1,5 @@
 
-### Hi there, I'm Hardik Raval  👋
+#Hi there, I'm Hardik Raval  👋
 
 ## student | Developer | Singer 
 
