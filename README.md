@@ -1,16 +1,15 @@
 
 # Hi there, I'm Hardik Raval  👋
 
-## student | Developer | Singer 
+## Student | Developer | Singer 
 
-- 🔭 I am currently working on  JavaScript and MERN stack development!
-- 🌱 I’m currently learning full-stack devlopment  !
-- 🥅 2021 Goals: Learn as many new things as i can and to Contribute more to Open Source projects
-- ⚡ Fun fact: I love singing  and playing guitar 
+- I am currently working on MERN stack and Mobile development!
+- I’m currently learning New Tech Stacks!
+- 2021 Goals: Learn as many new things as i can and to Contribute more to Open Source projects
+- Fun fact: I love singing and playing guitar 
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5GYRsgSmhgy697FJANfCM2?si=DZWXIAazRDOzSjeVRlHHzw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hardik Raval Spotify Playing" width="350" />](https://open.spotify.com/playlist/5GYRsgSmhgy697FJANfCM2?si=DZWXIAazRDOzSjeVRlHHzw)
 
 ### Connect with me:
 
